@@ -31,7 +31,7 @@ header {
   font-weight: 700;
 }
 
-.input-container {
+.new-task-container {
   margin-bottom: 45px;
   display: flex;
   flex-direction: column;
@@ -39,14 +39,14 @@ header {
 }
 
 @media only screen and (min-width: 690px) {
-  .input-container {
+  .new-task-container {
     flex-direction: row;
     align-items: end;
     gap: 25px;
   }
 }
 
-.input-container label {
+.new-task-container label {
   width: 100%;
   max-width: 625px;
   flex-direction: column;
@@ -56,13 +56,17 @@ header {
   font-weight: 400;
 }
 
-.input-container input {
+.new-task-container input {
   height: 55px;
   border: 2px solid black;
   border-radius: 4px;
+  padding-left: 15px;
+  font-family: sans-serif;
+  font-size: 22px;
+  font-weight: 500;
 }
 
-.add-button {
+.new-task-container__button {
   height: 55px;
   width: 100%;
   display: inline;
@@ -76,12 +80,12 @@ header {
 }
 
 @media only screen and (min-width: 690px) {
-  button.add-button {
+  .new-task-container__button {
     flex: 0 0 310px;
   }
 }
 
-.post-it-container {
+#post-it-container {
   width: 100%;
   height: fit-content;
   display: grid;
@@ -92,7 +96,7 @@ header {
 }
 
 @media only screen and (min-width: 690px) {
-  .post-it-container {
+  #post-it-container {
     gap: 35px 10px;
   }
 }
