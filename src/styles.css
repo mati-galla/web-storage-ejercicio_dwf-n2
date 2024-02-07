@@ -100,3 +100,12 @@ header {
     gap: 35px 10px;
   }
 }
+
+post-it-ce:focus {
+  border: 3px solid black;
+  border-radius: 4px;
+}
+
+post-it-ce:focus .post-it__delete-button {
+  display: initial;
+}

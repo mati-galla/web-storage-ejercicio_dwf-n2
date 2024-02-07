@@ -11,13 +11,14 @@ export function initPostIt() {
       const originalText = this.textContent;
       const div = document.createElement("div");
       div.classList.add("post-it");
+      div.tabIndex = -1;
       div.innerHTML = `
       <label for="">
+      <p>${originalText}</p>
       <div class='post-it__icons-container'>
       <input type="checkbox" class="post-it__checkbox"/>
-      <img src="" alt="" class="post-it__delete-button">
+      <img src="" alt="" class="post-it__delete-button" >
       </div>
-      <p>${originalText}</p>
       </label>
       `;
 
@@ -27,6 +28,7 @@ export function initPostIt() {
         box-sizing: border-box;
         min-height: 110px;
         width: 310px;
+        border-radius: 4px;
         padding: 20px;
         background-color: #fff599;
       }
@@ -55,25 +57,29 @@ export function initPostIt() {
       }
       
       img {
+        display: none;
         width: 22px;
         height: 22px;
         flex: 0 0 22px;
         margin: 0 auto;
       }
 
+      .post-it:focus img {
+        display: initial;
+      }
+
       img:hover {
         cursor: pointer;
       }
 
-      p {
-        order: -1;
-      }
       `;
 
       const img = div.querySelector("img");
+      // Genera ruta para poder importar la imagen al usar parcel.
       const src = new URL("../../icons/delete-icon.svg", import.meta.url);
       img.setAttribute("src", src.toString());
 
+      // Marca como checked los checkbox de las tareas completadas
       if (!this.id.includes("incomplete") && this.id.includes("complete")) {
         const checkbox = div.querySelector("input");
         checkbox.checked = true;

@@ -1,10 +1,10 @@
 4520
 122/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/yarn.lock1706638207626434203 0
-142/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/delete-icon.14283cef.svg1707195761970813985 0
-136/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.4d663569.css1707195762122807170 0
-135/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.b71e74eb.js1707195783849833084 0
+142/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/delete-icon.14283cef.svg1707341673678150358 0
+136/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.4d663569.css1707341673778148252 0
+135/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.b71e74eb.js1707341673782148168 0
 158/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/web-storage-ejercicio_dwf-n2.59712999.js1706903938620952632 0
-117/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist1707195783857832725 1
+117/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist1707341673786148084 1
 152/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/react-refresh/package.json1683648293302000000 0
 148/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/react-refresh/babel.js1683648293302000000 0
 183/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1683648293302000000 0
@@ -1368,7 +1368,7 @@
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/callsites/license1683648298553999000 0
 142/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@swc/helpers/src1706638200318745188 1
 162/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/package-manager/src/index.js1705942063048000000 0
-144/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/components/post-it/index.ts1707193507477169796 0
+144/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/components/post-it/index.ts1707341329785159390 0
 175/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/package-manager/src/promiseFromProcess.js1705942063048000000 0
 171/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/caniuse-lite/data/features/promise-finally.js1706557665372999000 0
 159/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/lib/public/Config.js1705942063046000000 0
@@ -2092,7 +2092,7 @@
 155/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/css-tree/lib/lexer/generic.js1683648293391999000 0
 163/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/css-tree/lib/syntax/scope/selector.js1683648293391999000 0
 165/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/htmlparser2/lib/WritableStream.d.ts.map1683648293680999000 0
-131/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/state/index.ts1707195761522834073 0
+131/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/state/index.ts1707341673194160547 0
 204/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines1706638206722472673 1
 171/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/caniuse-lite/data/features/insert-adjacent.js1706557665372999000 0
 154/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/transformer-posthtml1706638206890465525 1
@@ -2151,7 +2151,7 @@
 135/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/is-number1706638182827489387 1
 155/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/css-select/lib/index.d.ts.map1683648293348999000 0
 188/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.js1683648293072000000 0
-127/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/index.html1707193131368906717 0
+127/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/index.html1707339987711310219 0
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@trysound/sax/lib1706638195550948066 1
 148/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/nth-check/package.json1683648295092999000 0
 172/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js1683648290717999000 0
@@ -2313,7 +2313,7 @@
 144/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/plugin/lib1706638196734897688 1
 163/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/transformer-svg/lib/inline.js1705942068743999000 0
 154/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/abortcontroller-polyfill/src1706638193143050519 1
-135/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/components/post-it1706734479875129821 1
+135/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/components/post-it1707330638789764504 1
 156/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/lmdb/bin/download-prebuilds.js1699398235453999000 0
 153/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/semver/ranges/intersects.js1693351710013000000 0
 164/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/posthtml-parser/dist/chunk.T6SARJYH.js1683648292782000000 0
@@ -2324,7 +2324,7 @@
 182/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing1706638205938506038 1
 148/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/escalade/sync/index.js1683648293121000000 0
 148/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/escalade/dist/index.js1683648293121000000 0
-125/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/index.ts1707195783229860874 0
+125/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/index.ts1707340553425096723 0
 135/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/nth-check1706638189259215762 1
 142/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/mdn-data/LICENSE1683648295108999000 0
 151/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/src/index.js1705942063046000000 0
@@ -2338,7 +2338,7 @@
 175/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/caniuse-lite/data/features/http-live-streaming.js1706557665372999000 0
 165/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/runtime-browser-hmr/src/loaders1706638204934548763 1
 148/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/mdn-data/l10n/css.json1683648295108999000 0
-127/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/styles.css1707194685748068858 0
+127/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src/styles.css1707338253493911001 0
 149/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/color-name/package.json1683648293158999000 0
 149/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/workers/lib/web1706638205310532762 1
 163/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@swc/helpers/cjs/_super_prop_base.cjs1696893377388000000 0
@@ -2466,7 +2466,7 @@
 166/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@swc/helpers/_/_class_private_method_get1706638205410528507 1
 180/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/test/fixtures/common-targets/package.json1705942063046000000 0
 148/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/codeframe/test1706638195702941598 1
-128/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.html1707195761970813985 0
+128/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.html1707341673678150358 0
 164/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/source-map/lib/source-map-generator.js1683648295285000000 0
 166/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/caniuse-lite/data/features/filereader.js1706557665372999000 0
 171/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/test/fixtures/library-scopehoist1706638205942505867 1
@@ -2522,7 +2522,7 @@
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/nth-check/lib/esm1706638205618519655 1
 196/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/package.json1705942063046000000 0
 166/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/abortcontroller-polyfill/src/ponyfill.js1683648283365999000 0
-116/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src1707174896075143602 1
+116/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/src1707330638789764504 1
 166/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/lib/requests/PathRequest.js1705942063046000000 0
 173/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/core/lib/requests/ParcelBuildRequest.js1705942063046000000 0
 146/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/domhandler/readme.md1683648294947999000 0
@@ -2751,7 +2751,7 @@
 145/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/json5/lib/util.d.ts1683648283683000000 0
 144/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/json5/lib/index.js1683648283683000000 0
 164/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/diagnostic/lib/diagnostic.d.ts1705942063049000000 0
-140/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.4d663569.css.map1707195762126806991 0
+140/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.4d663569.css.map1707341673782148168 0
 175/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/@parcel/runtime-js/src/helpers/node/css-loader.js1705942066900000000 0
 143/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/caniuse-lite/data1706638193931016992 1
 142/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/json5/lib/cli.js1683648283683000000 0
@@ -3979,7 +3979,7 @@
 174/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/htmlnano/lib/modules/sortAttributesWithLists.cjs1699398233598000000 0
 160/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/lmdb/dependencies/lz4/lib/Makefile1699398235453999000 0
 165/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/htmlnano/lib/modules/sortAttributes.mjs1699398233598000000 0
-139/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.b71e74eb.js.map1707195783853832904 0
+139/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/dist/index.b71e74eb.js.map1707341673786148084 0
 158/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/htmlnano/lib/modules/example.mjs1699398233598000000 0
 161/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/htmlnano/lib/modules/minifyJson.mjs1699398233598000000 0
 172/home/mati/Mati/Programacion/APX School/codigo/nivel-2/arquitectura-web/web-storage/web-storage-ejercicio_dwf-n2/node_modules/htmlnano/lib/modules/removeAttributeQuotes.cjs1699398233598000000 0

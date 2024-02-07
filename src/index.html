@@ -17,10 +17,7 @@
       <div class="new-task-container">
         <label for=""
           >Nuevo pendiente
-          <input
-            type="text"
-            id="add-task-input"
-            oninput="capitalizeFirst(this.value)" />
+          <input type="text" id="add-task-input" />
         </label>
         <button class="new-task-container__button" id="add-task-button">
           Agregar
@@ -29,14 +26,5 @@
 
       <div id="post-it-container"></div>
     </div>
-
-    <script>
-      function capitalizeFirst(value) {
-        const addTaskInput = document.querySelector("#add-task-input");
-        if (value.length > 0) {
-          addTaskInput.value = value.charAt(0).toUpperCase() + value.slice(1);
-        }
-      }
-    </script>
   </body>
 </html>

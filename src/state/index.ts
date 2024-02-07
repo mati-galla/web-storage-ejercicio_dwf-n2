@@ -7,26 +7,29 @@ export const state = {
 
   listeners: [],
 
+  // Descarga data desde localStorage.
   downloadState() {
     const responseStringi = localStorage.getItem("data");
-    console.log(responseStringi);
     const response = JSON.parse(responseStringi);
     this.data.complete = response?.complete || [];
     this.data.incomplete = response?.incomplete || [];
     this.data.erased = response?.erased || [];
   },
 
+  // Guarda data en localStorage.
   uploadState() {
     const dataStringi = JSON.stringify(this.data);
     console.log(dataStringi);
     localStorage.setItem("data", dataStringi);
   },
 
+  // Devuelve data.
   getState() {
     this.downloadState();
     return this.data;
   },
 
+  // Establece data.
   setState(newState) {
     this.data = newState;
     this.uploadState();
@@ -35,6 +38,7 @@ export const state = {
     }
   },
 
+  // Agrega tarea incompleta.
   addIncomplete(newIncomplete) {
     this.data.incomplete.push(newIncomplete);
     this.uploadState();
@@ -43,8 +47,8 @@ export const state = {
     }
   },
 
+  // Agrega tarea completa.
   addComplete(newComplete) {
-    console.log(newComplete);
     this.data.complete.push(newComplete);
     this.uploadState();
     for (const cb of this.listeners) {
@@ -52,6 +56,7 @@ export const state = {
     }
   },
 
+  // Remueve tarea incompleta y llama a agregarla como completa.
   changeToIncomplete(id) {
     const index = Number(id.match(/\d+/)[0]);
     const incompleteTask = this.data.complete
@@ -62,6 +67,7 @@ export const state = {
     this.addIncomplete(incompleteTask);
   },
 
+  // Remueve tarea completa y llama a agregarla como incompleta.
   changeToComplete(id) {
     const index = Number(id.match(/\d+/)[0]);
     const completeTask = this.data.incomplete
@@ -72,6 +78,7 @@ export const state = {
     this.addComplete(completeTask);
   },
 
+  // Borra tarea.
   eraseTask(id) {
     const index = Number(id.match(/\d+/)[0]);
     if (!id.includes("incomplete") && id.includes("complete")) {
